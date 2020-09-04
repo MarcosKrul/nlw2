@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.5"
+  },
+  "name": "project-nlw2-e2c_mrk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcos Krul <marcoskrul2k@gmail.com>",
+  "license": "MIT"
+}
